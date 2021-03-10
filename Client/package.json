@@ -97,7 +97,7 @@
     },
     "eccrypto": "^1.1.3",
     "eckey-utils": "^0.7.13",
-    "elliptic": "^6.5.2",
+    "elliptic": "^6.5.4",
     "ethereumjs-util": "^6.2.0",
     "extend": {
       "integrity": "sha512-fjquC59cD7CyW6urNXK0FBufkZcoiGG80wTuPujX590cB5Ttln20E2UB4S/WARVqhXffZl2LNgS+gQdPIIim/g==",
