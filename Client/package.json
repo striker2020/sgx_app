@@ -232,7 +232,7 @@
       "resolved": "https://registry.npmjs.org/jsprim/-/jsprim-1.4.1.tgz",
       "version": "1.4.1"
     },
-    "jsrsasign": "^8.0.12",
+    "jsrsasign": "^10.5.25",
     "key-encoder": "^2.0.3",
     "mime-db": {
       "integrity": "sha512-+5dsGEEovYbT8UY9yD7eE4XTc4UwJ1jBYlgaQQF38ENsKR3wj/8q8RFZrF9WIZpB2V1ArTVFUva8sAul1NzRzQ==",
